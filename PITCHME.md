@@ -29,7 +29,7 @@
 <ul>
   <li>エージェント</li>
   <li>フリーランス仲間</li>
-  <li>勉強会で知り合うエンジニア</li>
+  <li>勉強会で知り合ったエンジニア</li>
   <li>個人活動にて知り合った方</li>
 </ul>
 
@@ -40,7 +40,7 @@
 <ul>
   <li style="color: #FF6407;"><span style="color: #FF6407">エージェント</span></li>
   <li>フリーランス仲間</li>
-  <li>勉強会で知り合うエンジニア</li>
+  <li>勉強会で知り合ったエンジニア</li>
   <li>個人活動にて知り合った方</li>
 </ul>
 
@@ -119,7 +119,7 @@
 <ul>
   <li>エージェント</li>
   <li style="color: #FF6407;"><span style="color: #FF6407">フリーランス仲間</span></li>
-  <li>勉強会で知り合うエンジニア</li>
+  <li>勉強会で知り合ったエンジニア</li>
   <li>個人活動にて知り合った方</li>
 </ul>
 
@@ -149,7 +149,7 @@
 <ul>
   <li>エージェント</li>
   <li>フリーランス仲間</li>
-  <li style="color: #FF6407;"><span style="color: #FF6407">勉強会で知り合うエンジニア</span></li>
+  <li style="color: #FF6407;"><span style="color: #FF6407">勉強会で知り合ったエンジニア</span></li>
   <li>個人活動にて知り合った方</li>
 </ul>
 
@@ -173,7 +173,7 @@ connpass や Doorkeeperなどのサービスにて、
 <ul>
   <li>エージェント</li>
   <li>フリーランス仲間</li>
-  <li>勉強会で知り合うエンジニア</li>
+  <li>勉強会で知り合ったエンジニア</li>
   <li style="color: #FF6407;"><span style="color: #FF6407">個人活動にて知り合った方</span></li>
 </ul>
 
